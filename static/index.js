@@ -55,6 +55,21 @@ document.addEventListener("DOMContentLoaded", () => {
   updateVisitorCount();
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 console.log(
   '%c Lior Tal CV 🚀 ',
   'font-family: monospace; ' +
