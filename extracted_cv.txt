@@ -1,0 +1,130 @@
+﻿
+
+
+LIOR TAL
+
+
+DevOps Engineer | Cloud & Automation
+
+Lior.tal13@gmail.com | 0544202997 | https://linktr.ee/liortal_
+
+
+
+PROFESSIONAL SUMMARY 
+
+DevOps Engineer with a strong software development background and extensive hands-on experience managing Production (PROD) and QA environments. Specialist in automating CI/CD lifecycles, managing multi-cloud infrastructure (Azure, GCP, AWS), microservices architectures, and implementing Infrastructure as Code. Proven track record in executing large-scale cloud migrations and ensuring system resilience through robust Disaster Recovery (DR) and backup strategies.
+
+CERTIFICATIONS
+
+
+Microsoft Certified: Azure Administrator Associate (AZ-104) | 2026
+
+TECHNICAL SKILLS
+
+Cloud & Containers: Azure, GCP, AWS, Docker, Kubernetes (K8s, EKS), Helm.
+
+Automation & CI/CD: Azure DevOps, Jenkins, GitLab CI, GitHub Actions, Ansible, 
+ArgoCD
+.
+
+Infrastructure as Code: Terraform (including DR planning), Bicep, CloudFormation.
+
+Monitoring & Logging: Prometheus, Grafana, ELK Stack, AWS CloudWatch.
+
+Programming & Scripting: Python, Bash, PowerShell, Node.js.
+
+Web Development: Node.js, React, Vue.js, REST APIs, MongoDB.
+
+Security & Tools: 
+Snyk
+, SonarQube, 
+Trivy
+, Git, Linux (Ubuntu).
+
+AI & Developer Tools: 
+VsCode
+, Antigravity, Cursor, 
+Vim ,Nano
+ | Codex, Gemini CLI, Claude Code CLI, 
+OpenClaw
+.
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Bynet Communications | DevOps Engineer | Dec 2025 – Present
+
+Directly managing and maintaining high-availability Production (PROD) and QA environments for enterprise clients.
+
+Optimized CI/CD pipelines within Azure DevOps and GitLab, achieving a 77% improvement in deployment efficiency and significantly reducing pipeline execution times.
+
+Provisioning and optimizing Azure cloud infrastructure using Terraform, implementing security controls such as Just-In-Time (JIT) access, and building Disaster Recovery (DR) architectures.
+
+Orchestrating microservices and containerized workloads using Docker and Kubernetes (K8s) to improve application scalability and resource efficiency.
+
+Executing complex infrastructure migrations from on-premises environments to Google Cloud Platform (GCP) for government sector projects.
+
+
+
+
+
+
+Exyte
+ Israel | I&C Tool Install Design | 2023 – 2024 
+
+Led chemical and electrical programming for production machinery using Navis Work 3D modeling.
+
+
+
+Fello.co.uk | Full Stack Developer | 2022 – 2023 
+
+Developed high-performance web applications for a travel agency using Vue.js, Node.js, and MongoDB.
+
+Engineered scalable backend solutions for real-time data processing, improving application responsiveness and user engagement.
+
+
+
+
+
+
+
+EDUCATION
+
+DevOps Practical Engineer (2024 – 2025) | Technological College of Beer-Sheva (by Bynet).  – Graduated Summa Cum Laude
+
+Full Stack Developer Bootcamp (2022) | Coding Academy.
+
+
+
+PROJECTS
+
+Azure Infrastructure & CI/CD Pipeline (Capstone Project) for Bynet
+
+Implemented a full DevOps lifecycle on Azure for a microservices-based application, including AKS, Redis Cache, and Key Vault.
+
+Configured 
+GitOps
+ deployment via 
+ArgoCD
+ and static code analysis using 
+Snyk
+ and SonarQube.
+
+MILITARY SERVICE Electro-optics Technician | 2015 – 2018 
+
+
+Managed a technical team responsible for maintaining and diagnosing complex optical-thermal equipment using advanced testing tools
+
+
+
+LANGUAGES
+
+
+Hebrew: Native.
+
+
+English: high level in speaking, writing and reading.
+
+
+
